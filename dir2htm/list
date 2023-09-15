@@ -1,0 +1,21 @@
+測試 (目錄樹名稱)
+#1
+#2
+#3.... (最多10行)
+
+ Volume in drive C is 我愛素華
+ Volume Serial Number is 1C35-1800
+
+Directory of C:\HOME\DOWNLOAD\DIR2HTM
+
+.              <DIR>        03-10-99   0:08
+..             <DIR>        03-10-99   0:08
+dir2htm  exe        43,603  02-11-99  21:19 目錄轉HTML格式程式
+read     me          1,792  03-10-99   0:15 使用說明
+list                   537  03-10-99   0:20 目錄資料檔 (由 dir /s > list 而得)
+index    htm         1,064  03-10-99   0:16 轉換結果
+         4 file(s)         46,996 bytes
+
+Total files listed:
+         4 file(s)         46,996 bytes
+         2 dir(s)     149,553,152 bytes free
